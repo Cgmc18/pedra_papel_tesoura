@@ -1,16 +1,44 @@
-# pedra_papel_tesoura
+# 🪨📄✂️ JokenPo - Pedra, Papel e Tesoura
 
-A new Flutter project.
+Repositório do clássico jogo "Pedra, Papel e Tesoura" feito com **Flutter** 💙.  
+Jogue contra o app e descubra se você vai vencer, perder ou empatar!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Como rodar o projeto
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone este repositório**
+   ```bash
+   git clone https://github.com/Cgmc18/pedra_papel_tesoura.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Acesse a pasta do projeto**
+   ```bash
+   cd pedra_papel_tesoura
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Instale as dependências**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Execute o app**
+   ```bash
+   flutter run
+   ```
+
+> Certifique-se de ter o Flutter corretamente instalado e configurado em sua máquina.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Flutter
+- Dart
+
+---
+
+## ✨ Feito por
+
+[Carol](https://github.com/Cgmc18) 💚
+```
